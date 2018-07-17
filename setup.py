@@ -43,7 +43,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/jacknova/pull_webhook',
+    url='https://github.com/jacknova/pull-webhook',
     version='0.1.3',
     zip_safe=False,
 )

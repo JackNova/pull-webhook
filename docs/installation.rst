@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/jacknova/pull_webhook
+    $ git clone git://github.com/jacknova/pull-webhook
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/jacknova/pull_webhook/tarball/master
+    $ curl  -OL https://github.com/jacknova/pull-webhook/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/jacknova/pull_webhook
-.. _tarball: https://github.com/jacknova/pull_webhook/tarball/master
+.. _Github repo: https://github.com/jacknova/pull-webhook
+.. _tarball: https://github.com/jacknova/pull-webhook/tarball/master
