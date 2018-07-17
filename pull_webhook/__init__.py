@@ -5,3 +5,8 @@
 __author__ = """Dario Iacampo"""
 __email__ = 'dario@jntstudio.net'
 __version__ = '0.1.0'
+
+from .pull_webhook import Puller
+from .pull_webhook import main
+
+__all__ = [Puller, main]
