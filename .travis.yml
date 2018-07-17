@@ -11,5 +11,5 @@ deploy:
     secure: JJt1rxVLHwEQpoYogIrwsLp2kkRk0PLi7OUEVKCcCFClphll3xDRhJ/rzwiiwyrtPIYu8iEIRtuG75oQ/Y5MwIfzWmRIyYIzhUQpNhpgdi+2wfenMJqGklJ+/w+m3mQ8kSB9x8Bi0zDbPe/oJYVJ5lpBgoigjn5s8VFS5sa6oUBpyFgKBpUUR8ADdWmNUqfdM9DUr5aR7ib/91HRnUryeSfYncxVx0n2ZytoVc6KMqlqPt1J2Ag4j0xu4X6Gb/Scf+f+DgMxE1uq+3zfdD7N309MM4fNYcTOoJ8GjOFpB/slQEVMTFN/sLUdm/hHwulLq0km1GU8P+2fSFjpbUT4Cn4GGcPFmurraljtp6cByLYWtqVmzt23yVq1sg5X55LBaFmSGXGxgUdIoy9xeV/KHZ3dGHyAbQ+90NIo7XNXedIhESr8BQkt7/ijmsF9PVNvadhk15WedUMTYBoad5L0MFWI03XXLzeCEKdxHDrFU4hTdPpL2QH6McyzEMiTYx8J1AAIjH1GQCL7Amf7+sA1HqSXxma+kKVkPkH2ymlcTpdpvkK+ez8OoKUVeOtMVE/IpX17Llih3ugszk+GTYoYUO9M89Q+urruKDZkj598cFCj0QmTwWyJUp+8nZcHzZp9OcWU0LqL/LCwybDDJsB/iiOP3G7PiCzKM3jmzgDwhq4=
   on:
     tags: true
-    repo: jacknova/pull-webhook
+    repo: JackNova/pull-webhook
     python: 3.6
