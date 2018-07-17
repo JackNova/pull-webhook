@@ -38,7 +38,7 @@ setup(
     long_description=readme + '\n\n' + history,
     include_package_data=True,
     keywords='pull_webhook',
-    name='pull_webhook',
+    name='pull-webhook',
     packages=find_packages(include=['pull_webhook']),
     setup_requires=setup_requirements,
     test_suite='tests',
