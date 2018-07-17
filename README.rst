@@ -6,8 +6,8 @@ Pull Webhook
 .. image:: https://img.shields.io/pypi/v/pull-webhook.svg
         :target: https://pypi.python.org/pypi/pull-webhook
 
-.. image:: https://img.shields.io/travis/jacknova/pull-webhook.svg
-        :target: https://travis-ci.org/jacknova/pull-webhook
+.. image:: https://img.shields.io/travis/JackNova/pull-webhook.svg
+        :target: https://travis-ci.org/JackNova/pull-webhook
 
 .. image:: https://readthedocs.org/projects/pull-webhook/badge/?version=latest
         :target: https://pull-webhook.readthedocs.io/en/latest/?badge=latest
