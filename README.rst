@@ -26,7 +26,8 @@ Pull latest changes from a git remote
 Features
 --------
 
-* TODO
+Runs a simple HTTPServer that waits for a POST request and triggers a git pull.
+
 
 Credits
 -------

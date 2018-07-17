@@ -12,7 +12,7 @@ To install Pull Webhook, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install pull_webhook
+    $ pip install pull-webhook
 
 This is the preferred method to install Pull Webhook, as it will always install the most recent stable release.
 
