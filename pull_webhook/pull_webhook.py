@@ -29,6 +29,8 @@ class Puller(object):
 
     @classmethod
     def git_pull(cls):
+        print('repository directory is {}'.format(cls.repository_directory))
+        print('pulling from {} branch of {} remote '.format(cls.branch, cls.remote))
         result = subprocess.call([
             "git", "--git-dir", cls.repository_directory + '/.git', "pull",
             cls.remote, cls.branch
@@ -42,7 +44,7 @@ class Puller(object):
 def main(port=DEFAULT_PORT):
     server_address = ('', port)
     httpd = HTTPServer(server_address, WebHookHandler)
-    print('Starting httpd...')
+    print('httpd is waiting for POST requests on port {}'.format(port))
     httpd.serve_forever()
 
 
